@@ -5,8 +5,9 @@ day laf ai
 day toi toi
 toi la day
 merge 3
-merge 4
-merge 5
 
 
+=======
+merge 6
+>>>>>>> dev
 
